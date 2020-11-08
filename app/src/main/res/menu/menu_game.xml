@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.peakfinn.task4level2_final.MainActivity">
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_history_white_24dp"
+        android:title="@string/history"
+        app:showAsAction="ifRoom"/>
+</menu>
